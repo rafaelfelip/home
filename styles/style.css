@@ -41,7 +41,7 @@ section .content h2 {
   color: #bc93f9;
   font-size: 3em;
   font-weight: 600;
-  /* text-shadow: #bc93f9 0.1em 0.1em 0.2em; */
+  text-shadow: 0 0 0.1em #87f, 0 0 0.1em #87f, 0 0 0.1em #87f;
 }
 section .content p {
   color: #bc93f9;
