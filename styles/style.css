@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 section {
   position: relative;
@@ -40,13 +40,13 @@ section .content {
 section .content h2 {
   color: #daa520;
   font-size: 3em;
-  font-weight: 800;
+  font-weight: 600;
 }
 section .content p {
   color: #daa520;
   font-size: 1.2em;
 }
-section .content a {
+/* section .content a {
   position: relative;
   display: inline-block;
   padding: 15px 30px;
@@ -58,7 +58,7 @@ section .content a {
   font-size: 0.95em;
   font-weight: 700;
   letter-spacing: 2px;
-}
+} */
 
 section .imgBx {
   position: relative;
